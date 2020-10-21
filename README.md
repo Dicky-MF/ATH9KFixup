@@ -9,9 +9,9 @@ An open source kernel extension providing patches for unsupported Atheros cards.
 Only support for AR9485, and no boot Arg required unless for debug.
 
 #### Boot Args List
--ath9koff/n
--ath9kdbg/n
--ath9kbeta/n
+- -ath9koff
+- -ath9kdbg
+- -ath9kbeta
 
 #### Installation
 1. Put ATH9KInjector.kext to L/E
