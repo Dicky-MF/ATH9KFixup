@@ -6,7 +6,7 @@ An open source kernel extension providing patches for unsupported Atheros cards.
 
 
 #### Features
-Only support for AR9485, and no boot Arg required unless for debug.
+Only support AR9485, and no boot Arg required unless for debug.
 
 #### Boot Args List
 - -ath9koff
